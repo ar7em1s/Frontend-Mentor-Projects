@@ -1,2 +1,2 @@
 # Frontend-Mentor-Projects
-FrontendMentor newbie project
+FrontendMentor newbie projects
