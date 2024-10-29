@@ -145,8 +145,9 @@ body {
 }
 
 .attribution {
-  color: #fff;
-  font-size: 14px;
+  color: hsl(0, 0%, 100%);
+  font-size: 11px;
+  text-align: center;
   position: absolute;
   bottom: 0;
 }
